@@ -26,3 +26,7 @@ dist-ssr
 
 .vercel
 .env*.local
+
+# allow gift photos in public/photos
+!public/photos/
+!public/photos/**
